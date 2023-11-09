@@ -19,14 +19,14 @@ As a junior data analyst on Bellabeat's marketing team, the task is to focus on 
 ## Analysis Overview
 
 **Data Source:**
-- [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
-- [GHO’s data on prevalence of insufficient physical activity](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-insufficient-physical-activity-among-adults-aged-18-years-(age-standardized-estimate)-(-))
+1. [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
+2. [GHO’s data on prevalence of insufficient physical activity](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-insufficient-physical-activity-among-adults-aged-18-years-(age-standardized-estimate)-(-))
 
 **Approach:**
 1. **Data Extraction, Cleaning & Analysis:** Conducted a comprehensive analysis of smart device fitness data, extracting valuable insights on user behavior, engagement patterns, and trends. This involved data cleaning, querying databases, and performing in depth analysis on performance metrics of users.
 2. **Visualization:** Translated complex findings into clear and impactful visual representations in Tableau and effectively communicated key metrics and trends to stakeholders facilitating informed decision making. Leveraged the data-driven insights to identify opportunities for targeted campaigns, personalized user engagement and other initiatives within the app to enhance user experience and drive business growth. 
 
-
+Read more about the this here: [Medium: Bellabeat: Case Study using PostgreSQL and Tableau](https://medium.com/@namrathapmd/bellabeat-case-study-with-sql-and-tableau-836795fea30b)
 
 - *List the contributors or collaborators on this project.*
 
