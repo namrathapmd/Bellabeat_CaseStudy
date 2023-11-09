@@ -1,4 +1,6 @@
 # Case Study: Bellabeat, a women’s health and wellness brand
+![Case Study (3)](https://github.com/namrathapmd/Bellabeat_CaseStudy/assets/67475244/3a49680f-c3d4-41ce-91d0-daaa14751e7a)
+
 
 ## About
 
@@ -28,8 +30,3 @@ As a junior data analyst on Bellabeat's marketing team, the task is to focus on 
 
 Read more about the this here: [Medium: Bellabeat: Case Study using PostgreSQL and Tableau](https://medium.com/@namrathapmd/bellabeat-case-study-with-sql-and-tableau-836795fea30b)
 
-- *List the contributors or collaborators on this project.*
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
