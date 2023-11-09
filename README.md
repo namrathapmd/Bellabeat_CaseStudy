@@ -26,30 +26,7 @@ The analysis is conducted on smart device fitness data collected by Bellabeat, e
 2. **Exploratory Data Analysis (EDA):** Employed Tableau for in-depth exploratory analysis to uncover patterns, correlations, and trends within the data.
 3. **Insight Generation:** Derived meaningful insights into consumer behavior and engagement with Bellabeat smart devices.
 
-## Key Findings
 
-- *Provide a brief summary of the significant insights gained during the analysis.*
-
-## Recommendations
-
-- *Outline high-level recommendations based on the insights to guide Bellabeat’s marketing strategy.*
-
-## Future Steps
-
-- *Suggest potential next steps or areas for further exploration in terms of data analysis or marketing strategy.*
-
-## How to Replicate the Analysis
-
-1. **Data Setup:**
-   - *Include instructions on setting up the PostgreSQL database or provide a link to the dataset.*
-
-2. **Analysis Replication:**
-   - *Guide on how to replicate the analysis using Tableau.*
-
-3. **Visualization:**
-   - *Explain how to interpret and reproduce the visualizations.*
-
-## Collaborators
 
 - *List the contributors or collaborators on this project.*
 
