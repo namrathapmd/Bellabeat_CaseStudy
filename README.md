@@ -19,12 +19,12 @@ As a junior data analyst on Bellabeat's marketing team, the task is to focus on 
 ## Analysis Overview
 
 **Data Source:**
-The analysis is conducted on smart device fitness data collected by Bellabeat, encompassing activity, sleep, stress, and reproductive health metrics.
+- [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
+- [GHO’s data on prevalence of insufficient physical activity](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-insufficient-physical-activity-among-adults-aged-18-years-(age-standardized-estimate)-(-))
 
 **Approach:**
-1. **Data Extraction and Cleaning:** Utilized PostgreSQL to extract and clean the relevant data for analysis.
-2. **Exploratory Data Analysis (EDA):** Employed Tableau for in-depth exploratory analysis to uncover patterns, correlations, and trends within the data.
-3. **Insight Generation:** Derived meaningful insights into consumer behavior and engagement with Bellabeat smart devices.
+1. **Data Extraction, Cleaning & Analysis:** Conducted a comprehensive analysis of smart device fitness data, extracting valuable insights on user behavior, engagement patterns, and trends. This involved data cleaning, querying databases, and performing in depth analysis on performance metrics of users.
+2. **Visualization:** Translated complex findings into clear and impactful visual representations in Tableau and effectively communicated key metrics and trends to stakeholders facilitating informed decision making. Leveraged the data-driven insights to identify opportunities for targeted campaigns, personalized user engagement and other initiatives within the app to enhance user experience and drive business growth. 
 
 
 
